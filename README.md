@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <h1 align="center">
-    <br>SANGVINIJUS AURELIJUS RINKEVIČIUS</br>
+    SANGVINIJUS AURELIJUS RINKEVIČIUS
     <br>------------------------------------------------------------------------------------------------- </br>
-    <br>2004-12-01 - 0000-00-00 | 1000-1500 ELO | ACTIVE OTB AND ONLINE</br>
+    2004-12-01 - 0000-00-00 | 1000-1500 ELO | ACTIVE OTB AND ONLINE
     <br>-------------------------------------------------------------------------------------------------</br>
   </h1>
   <h2 align="center">
