@@ -4,6 +4,9 @@
     - - - - - - - - - SANGVINIJUS AURELIJUS RINKEVIČIUS - - - - - - - - - 
   </h1>
   <h2 align="center">
-    As you can probably tell, my name is Sangvinijus.
+    Experienced chess teacher and coach, life long player.
   </h2>
+  <h3 align="center">
+    ...
+  </h3>
 </html>
