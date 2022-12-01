@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
-  <p align="center">
+  <h1 align="center">
     - - - - - - - - - SANGVINIJUS AURELIJUS RINKEVIČIUS - - - - - - - - - 
+  </h1>
+  <h2>
     This is a test, pay no attention.
-  </p>
+  </h2>
 </html>
