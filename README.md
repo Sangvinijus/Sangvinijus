@@ -5,11 +5,7 @@
     <br>---------------------------------------------------------------------------</br>
     2004-12-01 - 0000-00-00 | 1000-1500 ELO | ACTIVE OTB AND ONL
     <br>---------------------------------------------------------------------------</br>
-  </h1>
-  <h2 align="center">
     Experienced chess teacher and coach, life long player. Aspiring author, poet, artist and political activist.
-  </h2>
-  <h3 align="center">
     Patyres šachmatu mokytojas ir treneris, visa gyvenima žaides žaidėjas. Trokštantis autorius, poetas, menininkas ir politinis aktivistas.
-  </h3>
+  </h1>
 </html>
