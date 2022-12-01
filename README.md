@@ -4,7 +4,7 @@
     SANGVINIJUS AURELIJUS RINKEVIČIUS
   </h1>
   <h2 align="center">
-    <br>---------------------------------------------------------------------------</br>
+    ---------------------------------------------------------------------------
     2004-12-01 - 0000-00-00 | 1000-1500 ELO | ACTIVE OTB AND ONL
     <br>---------------------------------------------------------------------------</br>
     Experienced chess teacher and coach, life long player. Aspiring author, poet, artist and political activist.
