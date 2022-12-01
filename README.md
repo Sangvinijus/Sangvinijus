@@ -1,2 +1,2 @@
-#         SANGVINIJUS AURELIJUS RINKEVIČIUS
+# - - - SANGVINIJUS AURELIJUS RINKEVIČIUS - - - 
 ### Sveiki atvyke!
