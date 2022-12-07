@@ -1,3 +1,4 @@
+![Wooden Banner 2](https://user-images.githubusercontent.com/116754029/206212306-5966cdca-fa13-4012-b341-8b3f78e74111.png)
 # SANGVINIJUS AURELIJUS RINKEVIČIUS (WWW.SANGVINIJUS.COM)
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ### Patyres šachmatu mokytojas ir treneris, visa gyvenima žaides žaidėjas. Trokštantis autorius, poetas, menininkas ir apolitiškas politinis aktivistas. Lytinė, romantinė ir seksualinė mažuma. Laisvalaikio programuotojas, gamtos bei visos žmonyjos mylėtojas. Apie ateiti optimistiškas našlaitis. Vilniaus rezidentas, gimes ir save užaugines Elektrėnuose. Svajojantis apie didžiausio Lietuvos bei Europos šachmatų klubo įkurima.
