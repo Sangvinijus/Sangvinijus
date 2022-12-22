@@ -1,4 +1,3 @@
-![Banner Stripe 3](https://user-images.githubusercontent.com/116754029/208319295-d785fcaa-fc01-4986-9316-6441580bf58c.png)
 ![Wooden Banner 5](https://user-images.githubusercontent.com/116754029/208319173-32222d94-1ea4-44d0-a32f-caa700e61d43.png)
 ![Banner Stripe 3](https://user-images.githubusercontent.com/116754029/208319295-d785fcaa-fc01-4986-9316-6441580bf58c.png)
 # - - SANGVINIJUS AURELIJUS RINKEVIČIUS [(SANGVINIJUS.COM)](https://sangvinijus.com) - - 
